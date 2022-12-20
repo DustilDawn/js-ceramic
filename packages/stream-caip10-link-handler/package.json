@@ -1,5 +1,5 @@
 {
-  "name": "@ceramicnetwork/stream-caip10-link-handler",
+  "name": "@dustil/stream-caip10-link-handler",
   "version": "2.8.0-rc.0",
   "description": "Ceramic AccountLink stream handler",
   "keywords": [

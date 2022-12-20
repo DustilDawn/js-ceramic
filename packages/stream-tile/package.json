@@ -1,5 +1,5 @@
 {
-  "name": "@ceramicnetwork/stream-tile",
+  "name": "@dustil/stream-tile",
   "version": "2.11.0-rc.0",
   "description": "Ceramic Tile Document stream type",
   "keywords": [

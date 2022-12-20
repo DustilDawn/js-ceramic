@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { CID } from 'multiformats/cid'
 import { Observable, Subject, concat, of } from 'rxjs'
 import { filter } from 'rxjs/operators'

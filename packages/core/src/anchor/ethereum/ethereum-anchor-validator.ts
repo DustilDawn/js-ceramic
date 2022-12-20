@@ -1,3 +1,4 @@
+// @ts-nocheck
 import * as uint8arrays from 'uint8arrays'
 import { decode } from 'multiformats/hashes/digest'
 import * as providers from '@ethersproject/providers'

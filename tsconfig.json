@@ -15,7 +15,7 @@
     "baseUrl": "./packages",
     "typeRoots": ["./types", "node_modules/@types"],
     "paths": {
-      "@ceramicnetwork/*": ["./*/"]
+      "@dustil/*": ["./*/"]
     }
   },
   "exclude": ["node_modules", "coverage", "**/*.spec.ts", "**/*.test.ts", "**/__mocks__/*"],

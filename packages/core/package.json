@@ -1,5 +1,5 @@
 {
-  "name": "@ceramicnetwork/core",
+  "name": "@dustil/core",
   "version": "2.20.0-rc.0",
   "description": "Typescript implementation of the Ceramic protocol",
   "keywords": [

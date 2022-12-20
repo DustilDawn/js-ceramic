@@ -1,5 +1,5 @@
 {
-  "name": "@ceramicnetwork/pinning-crust-backend",
+  "name": "@dustil/pinning-crust-backend",
   "version": "2.7.0-rc.0",
   "description": "Crust Pinning backend",
   "keywords": [

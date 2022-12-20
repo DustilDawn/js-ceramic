@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { CID } from 'multiformats/cid'
 import {
   AnchorProof,

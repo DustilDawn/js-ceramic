@@ -1,5 +1,5 @@
 {
-  "name": "@ceramicnetwork/pinning-ipfs-backend",
+  "name": "@dustil/pinning-ipfs-backend",
   "version": "2.7.0-rc.0",
   "description": "IPFS Pinning backend",
   "keywords": [

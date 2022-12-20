@@ -28,7 +28,7 @@ or including StreamID commit
 ### Installation
 
 ```
-$ npm install @ceramicnetwork/streamid
+$ npm install @dustil/streamid
 ```
 
 ### Usage
@@ -39,7 +39,7 @@ See the [ceramic developer site](https://developers.ceramic.network/) for more d
 To reference a stream as a whole, use `StreamID`. You can create an instance from the parts. stream type string or integer and CID instance or string are required.
 
 ```typescript
-import { StreamID } from '@ceramicnetwork/streamid';
+import { StreamID } from '@dustil/streamid';
 
 const streamid = new StreamID('tile', 'bagcqcerakszw2vsov...');
 
@@ -69,7 +69,7 @@ one is expected to provide a reference to commit (CID instance or string). If yo
 or just omit the value, this would reference a genesis commit.
 
 ```typescript
-import { CommitID } from '@ceramicnetwork/streamid';
+import { CommitID } from '@dustil/streamid';
 
 const commitId = new CommitID('tile', 'bagcqcerakszw2vsov...', 'bagcqcerakszw2vsov...');
 
@@ -101,7 +101,7 @@ streamId.baseID; // #=> new StreamID reference to the same stream, effectively a
 
 To parse an unknown input into proper CommitID or StreamID, you could use `streamRef.from`:
 ```typescript
-import { streamRef } from '@ceramicnetwork/streamid';
+import { streamRef } from '@dustil/streamid';
 const input = 'bagcqcerakszw2vsov...' // could be instance of Uint8Array, StreamID, CommitID either; or in URL form
 const streamIdOrCommitId = streamRef.from(input) // throws if can not properly parse it into CommitID or StreamID
 ```

@@ -1,5 +1,5 @@
 {
-  "name": "@ceramicnetwork/blockchain-utils-validation",
+  "name": "@dustil/blockchain-utils-validation",
   "version": "2.7.0-rc.0",
   "description": "Blockchain utils for validation of linked blockchain accounts",
   "keywords": [

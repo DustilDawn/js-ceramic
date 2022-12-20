@@ -1,5 +1,5 @@
 {
-  "name": "@ceramicnetwork/pinning-aggregation",
+  "name": "@dustil/pinning-aggregation",
   "version": "2.7.0-rc.0",
   "description": "Aggregated pinning",
   "keywords": [

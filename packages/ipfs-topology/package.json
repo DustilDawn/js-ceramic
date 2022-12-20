@@ -1,5 +1,5 @@
 {
-  "name": "@ceramicnetwork/ipfs-topology",
+  "name": "@dustil/ipfs-topology",
   "version": "2.9.0-rc.0",
   "description": "Setup IPFS topology right",
   "keywords": [

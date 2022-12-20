@@ -76,7 +76,7 @@ function fromStringNoThrow(input: string): StreamID | Error {
   return tryCatch(() => fromString(input))
 }
 
-const TAG = Symbol.for('@ceramicnetwork/streamid/StreamID')
+const TAG = Symbol.for('@dustil/streamid/StreamID')
 
 /**
  * Stream identifier, no commit information included.
