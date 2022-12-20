@@ -3,6 +3,32 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 2.8.0-rc.1 (2022-12-20)
+
+
+### Bug Fixes
+
+* resolve merge conflicts during merge from `main` ([#1848](https://github.com/DustilDawn/js-ceramic/issues/1848)) ([6772fc6](https://github.com/DustilDawn/js-ceramic/commit/6772fc6c61bc9daadfd3f6d6ecf3de2bb100450d))
+* **stream-model-instance-handler,streamid:** Fix test snapshots with new Uint8Array format ([#2349](https://github.com/DustilDawn/js-ceramic/issues/2349)) ([d40a19a](https://github.com/DustilDawn/js-ceramic/commit/d40a19acac88b45d6539d94b8039363e0c650b92))
+* **stream-model-instance-handler,streamid:** Fix test snapshots with new Uint8Array format ([#2349](https://github.com/DustilDawn/js-ceramic/issues/2349)) ([8c7f239](https://github.com/DustilDawn/js-ceramic/commit/8c7f2398136f799feac9a3ba875d23063793ee9b))
+
+
+### Features
+
+* DocState contains type as number ([#1250](https://github.com/DustilDawn/js-ceramic/issues/1250)) ([56501e2](https://github.com/DustilDawn/js-ceramic/commit/56501e264aebb4e9b01ea31422dfd6f7827b1382))
+* Get instance comparison by hand ([#1332](https://github.com/DustilDawn/js-ceramic/issues/1332)) ([8dbdc1b](https://github.com/DustilDawn/js-ceramic/commit/8dbdc1bafdd141f732492fd7b0ca038ed1a075a3))
+* More descriptive error for StreamRef.from ([#2292](https://github.com/DustilDawn/js-ceramic/issues/2292)) ([695b824](https://github.com/DustilDawn/js-ceramic/commit/695b824d57a59825477fea318f51bc6fc85d7241))
+* Pass issuer to verifyJWS ([#1542](https://github.com/DustilDawn/js-ceramic/issues/1542)) ([3c60b0c](https://github.com/DustilDawn/js-ceramic/commit/3c60b0c43267e29e17fd1f676f25bf11c2ab06d5))
+* **stream-model, stream-model-handler:** Core APIs for Model streamtype ([#2182](https://github.com/DustilDawn/js-ceramic/issues/2182)) ([65383af](https://github.com/DustilDawn/js-ceramic/commit/65383af69f69b730b0c54fe9d19569bfcace4f0c))
+* **stream-model:** Change Model model for indexing to use UNLOADABLE streamtype ([#2326](https://github.com/DustilDawn/js-ceramic/issues/2326)) ([cac8010](https://github.com/DustilDawn/js-ceramic/commit/cac8010afd6735af190c95025c223abe9f938f1a))
+* **streamid:** Add fromGenesis function ([#1666](https://github.com/DustilDawn/js-ceramic/issues/1666)) ([9e17b8e](https://github.com/DustilDawn/js-ceramic/commit/9e17b8e487eed3a6586b8a70a2b984586119c7ea))
+* **streamid:** Rename DocID to StreamID ([#1195](https://github.com/DustilDawn/js-ceramic/issues/1195)) ([65754d1](https://github.com/DustilDawn/js-ceramic/commit/65754d17ecfbdae9f110c71de91120200a6b4ef2))
+* Transition remaining tests to pure ESM ([#2044](https://github.com/DustilDawn/js-ceramic/issues/2044)) ([0848eb5](https://github.com/DustilDawn/js-ceramic/commit/0848eb59741a2b940de9dd76df94bd8948bae637))
+
+
+
+
+
 # [2.8.0-rc.0](https://github.com/ceramicnetwork/js-ceramic/compare/@ceramicnetwork/streamid@2.7.0...@ceramicnetwork/streamid@2.8.0-rc.0) (2022-12-15)
 
 **Note:** Version bump only for package @ceramicnetwork/streamid

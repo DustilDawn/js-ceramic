@@ -1,6 +1,6 @@
 {
   "name": "@dustil/http-client",
-  "version": "2.12.0-rc.0",
+  "version": "2.12.0-rc.1",
   "description": "An http client for the ceramic network",
   "keywords": [
     "Ceramic",

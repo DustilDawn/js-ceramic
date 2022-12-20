@@ -3,6 +3,38 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 2.8.0-rc.1 (2022-12-20)
+
+
+### Bug Fixes
+
+* accept multiple pubsub responses ([#1348](https://github.com/ceramicnetwork/js-ceramic/issues/1348)) ([fa2d72a](https://github.com/ceramicnetwork/js-ceramic/commit/fa2d72a5790d5994b82aeedd131fccf1b7641320))
+* **common, logger:** Clean up dependencies ([#1164](https://github.com/ceramicnetwork/js-ceramic/issues/1164)) ([191ad31](https://github.com/ceramicnetwork/js-ceramic/commit/191ad310b87ac9aba97bb84b122908337f35aa11))
+* **core:** ipfs subscribe, pin version ([#1454](https://github.com/ceramicnetwork/js-ceramic/issues/1454)) ([fc9c5e7](https://github.com/ceramicnetwork/js-ceramic/commit/fc9c5e77ef84be448744b92fb35d5e3bf06f264d))
+* remove cpu and memory from healthcheck ([#1182](https://github.com/ceramicnetwork/js-ceramic/issues/1182)) ([b818689](https://github.com/ceramicnetwork/js-ceramic/commit/b8186897cdde33545730fe334714a612048a172f))
+* resolve merge conflicts during merge from `main` ([#1848](https://github.com/ceramicnetwork/js-ceramic/issues/1848)) ([6772fc6](https://github.com/ceramicnetwork/js-ceramic/commit/6772fc6c61bc9daadfd3f6d6ecf3de2bb100450d))
+* use npm package for ipfs-daemon in docker ([2264d2d](https://github.com/ceramicnetwork/js-ceramic/commit/2264d2d28c86e1a75134bd14a6b549f60a2c7c8d))
+
+
+### Features
+
+* **debug:** start node processes with inspect flag ([#1762](https://github.com/ceramicnetwork/js-ceramic/issues/1762)) ([6882fed](https://github.com/ceramicnetwork/js-ceramic/commit/6882fed4d182a671c0b28e9fe5864f4285782aba))
+* **ipfs-daemon:** create ipfs daemon using ipfsd ctl ([#2008](https://github.com/ceramicnetwork/js-ceramic/issues/2008)) ([812ae54](https://github.com/ceramicnetwork/js-ceramic/commit/812ae54fcbbb8f43760a951f70f04b43aa5f528c))
+* **ipfs-daemon:** remove builds of ipfs daemon ([#2010](https://github.com/ceramicnetwork/js-ceramic/issues/2010)) ([d271b9f](https://github.com/ceramicnetwork/js-ceramic/commit/d271b9fdbb747b53771ca6f7181c8a83abdaefb3))
+* Make IPFS instance on CLI non-disposable ([#2122](https://github.com/ceramicnetwork/js-ceramic/issues/2122)) ([cc4505f](https://github.com/ceramicnetwork/js-ceramic/commit/cc4505f6c9bb194650c9babcf3f6106c108b6041))
+* polyfill AbortController, so that Ceramic node works on Node.js v14 ([#2090](https://github.com/ceramicnetwork/js-ceramic/issues/2090)) ([fff3e8a](https://github.com/ceramicnetwork/js-ceramic/commit/fff3e8a18ef7d2ba86c80743f61f0487dae3e129))
+* Remove AbortController polyfill ([#2278](https://github.com/ceramicnetwork/js-ceramic/issues/2278)) ([65b9bee](https://github.com/ceramicnetwork/js-ceramic/commit/65b9beedafa108c07d4c7080c038061c35b88110))
+* Use ~/.jsipfs as default ipfs repo path ([#1503](https://github.com/ceramicnetwork/js-ceramic/issues/1503)) ([51d34a0](https://github.com/ceramicnetwork/js-ceramic/commit/51d34a053f6a79ee29f2672881d2d9c36a410705))
+
+
+### Reverts
+
+* Revert "DEBUG DO NOT PUBLISH: add env var to disable peer discovery (#1878)" (#1879) ([1274a3d](https://github.com/ceramicnetwork/js-ceramic/commit/1274a3dbe48875514f9223c71a1038281a632961)), closes [#1878](https://github.com/ceramicnetwork/js-ceramic/issues/1878) [#1879](https://github.com/ceramicnetwork/js-ceramic/issues/1879)
+
+
+
+
+
 # [2.8.0-rc.0](https://github.com/ceramicnetwork/js-ceramic/compare/@ceramicnetwork/ipfs-daemon@2.7.0...@ceramicnetwork/ipfs-daemon@2.8.0-rc.0) (2022-12-15)
 
 **Note:** Version bump only for package @ceramicnetwork/ipfs-daemon

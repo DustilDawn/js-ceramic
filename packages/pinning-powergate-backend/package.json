@@ -1,6 +1,6 @@
 {
   "name": "@dustil/pinning-powergate-backend",
-  "version": "2.7.0-rc.0",
+  "version": "2.7.0-rc.1",
   "description": "Powergate Pinning backend",
   "keywords": [
     "ceramic",
