@@ -1,6 +1,6 @@
 {
   "name": "@dustil/ipfs-topology",
-  "version": "2.9.0-rc.1",
+  "version": "2.9.0",
   "description": "Setup IPFS topology right",
   "keywords": [
     "ipfs",

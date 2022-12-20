@@ -1,6 +1,6 @@
 {
   "name": "@dustil/stream-model-instance-handler",
-  "version": "0.15.0-rc.1",
+  "version": "0.15.0",
   "description": "Ceramic Model Instance Document stream handler",
   "keywords": [
     "ceramic",

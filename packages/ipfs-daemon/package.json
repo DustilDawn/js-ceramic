@@ -1,6 +1,6 @@
 {
   "name": "@dustil/ipfs-daemon",
-  "version": "2.8.0-rc.1",
+  "version": "2.8.0",
   "description": "IPFS daemon wraps js-ipfs instance with dag-jose codec enabled",
   "keywords": [
     "ipfs",

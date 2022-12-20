@@ -1,6 +1,6 @@
 {
   "name": "@dustil/3id-did-resolver",
-  "version": "2.8.0-rc.1",
+  "version": "2.8.0",
   "description": "DID Resolver for the 3ID method",
   "keywords": [
     "Ceramic",
