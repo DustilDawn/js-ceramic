@@ -1,6 +1,6 @@
 {
   "name": "@dustil/common",
-  "version": "2.15.1",
+  "version": "2.15.2",
   "description": "Ceramic common types and utilities",
   "keywords": [
     "ceramic",
@@ -43,10 +43,10 @@
     "clean": "npx rimraf ./lib"
   },
   "dependencies": {
-    "@ceramicnetwork/streamid": "^2.8.0-rc.0",
     "@didtools/cacao": "^1.0.0",
     "@didtools/pkh-ethereum": "^0.0.1",
     "@didtools/pkh-solana": "^0.0.1",
+    "@dustil/streamid": "^2.8.0-rc.0",
     "@stablelib/random": "^1.0.1",
     "caip": "~1.1.0",
     "cross-fetch": "^3.1.4",
