@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.20.7](https://github.com/ceramicnetwork/js-ceramic/compare/@dustil/core@2.20.6...@dustil/core@2.20.7) (2022-12-21)
+
+**Note:** Version bump only for package @dustil/core
+
+
+
+
+
 ## [2.20.6](https://github.com/ceramicnetwork/js-ceramic/compare/@dustil/core@2.20.5...@dustil/core@2.20.6) (2022-12-21)
 
 **Note:** Version bump only for package @dustil/core

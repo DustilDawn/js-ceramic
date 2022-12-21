@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.8.7](https://github.com/ceramicnetwork/js-ceramic/compare/@dustil/stream-caip10-link-handler@2.8.6...@dustil/stream-caip10-link-handler@2.8.7) (2022-12-21)
+
+**Note:** Version bump only for package @dustil/stream-caip10-link-handler
+
+
+
+
+
 ## [2.8.6](https://github.com/ceramicnetwork/js-ceramic/compare/@dustil/stream-caip10-link-handler@2.8.5...@dustil/stream-caip10-link-handler@2.8.6) (2022-12-21)
 
 **Note:** Version bump only for package @dustil/stream-caip10-link-handler

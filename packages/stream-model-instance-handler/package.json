@@ -1,6 +1,6 @@
 {
   "name": "@dustil/stream-model-instance-handler",
-  "version": "0.15.6",
+  "version": "0.15.7",
   "description": "Ceramic Model Instance Document stream handler",
   "keywords": [
     "ceramic",
@@ -38,9 +38,9 @@
     "clean": "npx rimraf ./lib"
   },
   "dependencies": {
-    "@dustil/common": "^2.15.7",
-    "@dustil/stream-handler-common": "^1.5.6",
-    "@dustil/stream-model-instance": "^0.11.6",
+    "@dustil/common": "^2.15.8",
+    "@dustil/stream-handler-common": "^1.5.7",
+    "@dustil/stream-model-instance": "^0.11.7",
     "@dustil/streamid": "^2.8.0-rc.0",
     "ajv": "^8.8.2",
     "ajv-formats": "^2.1.1",
@@ -51,8 +51,8 @@
   },
   "devDependencies": {
     "@didtools/cacao": "^1.0.0",
-    "@dustil/3id-did-resolver": "^2.8.6",
-    "@dustil/stream-model": "^0.13.6",
+    "@dustil/3id-did-resolver": "^2.8.7",
+    "@dustil/stream-model": "^0.13.7",
     "@ipld/dag-cbor": "^7.0.0",
     "@stablelib/sha256": "^1.0.1",
     "@types/lodash.clonedeep": "^4.5.6",

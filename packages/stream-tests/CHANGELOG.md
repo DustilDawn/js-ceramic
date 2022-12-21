@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.17.7](https://github.com/DustilDawn/js-ceramic/compare/@dustil/stream-tests@2.17.6...@dustil/stream-tests@2.17.7) (2022-12-21)
+
+**Note:** Version bump only for package @dustil/stream-tests
+
+
+
+
+
 ## [2.17.6](https://github.com/DustilDawn/js-ceramic/compare/@dustil/stream-tests@2.17.5...@dustil/stream-tests@2.17.6) (2022-12-21)
 
 **Note:** Version bump only for package @dustil/stream-tests
