@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.10.6](https://github.com/ceramicnetwork/js-ceramic/compare/@dustil/stream-tile-handler@2.10.5...@dustil/stream-tile-handler@2.10.6) (2022-12-21)
+
+**Note:** Version bump only for package @dustil/stream-tile-handler
+
+
+
+
+
 ## [2.10.5](https://github.com/ceramicnetwork/js-ceramic/compare/@dustil/stream-tile-handler@2.10.4...@dustil/stream-tile-handler@2.10.5) (2022-12-21)
 
 **Note:** Version bump only for package @dustil/stream-tile-handler

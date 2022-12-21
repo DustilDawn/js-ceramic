@@ -1,6 +1,6 @@
 {
   "name": "@dustil/stream-handler-common",
-  "version": "1.5.5",
+  "version": "1.5.6",
   "description": "Ceramic stream handler common types and utilities",
   "keywords": [
     "ceramic",
@@ -41,7 +41,7 @@
     "clean": "npx rimraf ./lib"
   },
   "dependencies": {
-    "@dustil/common": "^2.15.6",
+    "@dustil/common": "^2.15.7",
     "@dustil/streamid": "^2.8.0-rc.0",
     "lodash.clonedeep": "^4.5.0"
   }

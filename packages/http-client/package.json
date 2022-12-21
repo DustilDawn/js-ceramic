@@ -1,6 +1,6 @@
 {
   "name": "@dustil/http-client",
-  "version": "2.12.5",
+  "version": "2.12.6",
   "description": "An http client for the ceramic network",
   "keywords": [
     "Ceramic",
@@ -40,11 +40,11 @@
     "test": "NODE_OPTIONS=--experimental-vm-modules npx jest --silent --coverage --passWithNoTests"
   },
   "dependencies": {
-    "@dustil/common": "^2.15.6",
-    "@dustil/stream-caip10-link": "^2.10.5",
-    "@dustil/stream-model": "^0.13.5",
-    "@dustil/stream-model-instance": "^0.11.5",
-    "@dustil/stream-tile": "^2.11.5",
+    "@dustil/common": "^2.15.7",
+    "@dustil/stream-caip10-link": "^2.10.6",
+    "@dustil/stream-model": "^0.13.6",
+    "@dustil/stream-model-instance": "^0.11.6",
+    "@dustil/stream-tile": "^2.11.6",
     "@dustil/streamid": "^2.8.0-rc.0",
     "query-string": "^7.1.0",
     "rxjs": "^7.5.2"
