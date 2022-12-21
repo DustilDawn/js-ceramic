@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.15.2](https://github.com/ceramicnetwork/js-ceramic/compare/@dustil/stream-model-instance-handler@0.15.1...@dustil/stream-model-instance-handler@0.15.2) (2022-12-21)
+
+**Note:** Version bump only for package @dustil/stream-model-instance-handler
+
+
+
+
+
 ## [0.15.1](https://github.com/ceramicnetwork/js-ceramic/compare/@dustil/stream-model-instance-handler@0.15.0...@dustil/stream-model-instance-handler@0.15.1) (2022-12-21)
 
 **Note:** Version bump only for package @dustil/stream-model-instance-handler
