@@ -1,6 +1,6 @@
 {
   "name": "@dustil/stream-caip10-link-handler",
-  "version": "2.8.3",
+  "version": "2.8.4",
   "description": "Ceramic AccountLink stream handler",
   "keywords": [
     "ceramic",
@@ -39,10 +39,10 @@
     "clean": "npx rimraf ./lib"
   },
   "dependencies": {
-    "@dustil/blockchain-utils-validation": "^2.7.3",
-    "@dustil/common": "^2.15.4",
-    "@dustil/stream-caip10-link": "^2.10.3",
-    "@dustil/stream-handler-common": "^1.5.3"
+    "@dustil/blockchain-utils-validation": "^2.7.4",
+    "@dustil/common": "^2.15.5",
+    "@dustil/stream-caip10-link": "^2.10.4",
+    "@dustil/stream-handler-common": "^1.5.4"
   },
   "devDependencies": {
     "@stablelib/sha256": "^1.0.1",

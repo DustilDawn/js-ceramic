@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.9.4](https://github.com/ceramicnetwork/js-ceramic/compare/@dustil/ipfs-topology@2.9.3...@dustil/ipfs-topology@2.9.4) (2022-12-21)
+
+**Note:** Version bump only for package @dustil/ipfs-topology
+
+
+
+
+
 ## [2.9.3](https://github.com/ceramicnetwork/js-ceramic/compare/@dustil/ipfs-topology@2.9.2...@dustil/ipfs-topology@2.9.3) (2022-12-21)
 
 **Note:** Version bump only for package @dustil/ipfs-topology

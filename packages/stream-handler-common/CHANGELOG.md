@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.5.4](https://github.com/ceramicnetwork/js-ceramic/compare/@dustil/stream-handler-common@1.5.3...@dustil/stream-handler-common@1.5.4) (2022-12-21)
+
+**Note:** Version bump only for package @dustil/stream-handler-common
+
+
+
+
+
 ## [1.5.3](https://github.com/ceramicnetwork/js-ceramic/compare/@dustil/stream-handler-common@1.5.2...@dustil/stream-handler-common@1.5.3) (2022-12-21)
 
 **Note:** Version bump only for package @dustil/stream-handler-common

@@ -1,6 +1,6 @@
 {
   "name": "@dustil/stream-tile-handler",
-  "version": "2.10.3",
+  "version": "2.10.4",
   "description": "Ceramic Tile Document stream handler",
   "keywords": [
     "ceramic",
@@ -38,9 +38,9 @@
     "clean": "npx rimraf ./lib"
   },
   "dependencies": {
-    "@dustil/common": "^2.15.4",
-    "@dustil/stream-handler-common": "^1.5.3",
-    "@dustil/stream-tile": "^2.11.3",
+    "@dustil/common": "^2.15.5",
+    "@dustil/stream-handler-common": "^1.5.4",
+    "@dustil/stream-tile": "^2.11.4",
     "@dustil/streamid": "^2.8.0-rc.0",
     "ajv": "^8.8.2",
     "ajv-formats": "^2.1.1",
@@ -51,7 +51,7 @@
   },
   "devDependencies": {
     "@didtools/cacao": "^1.0.0",
-    "@dustil/3id-did-resolver": "^2.8.3",
+    "@dustil/3id-did-resolver": "^2.8.4",
     "@ipld/dag-cbor": "^7.0.0",
     "@stablelib/sha256": "^1.0.1",
     "@types/lodash.clonedeep": "^4.5.6",
