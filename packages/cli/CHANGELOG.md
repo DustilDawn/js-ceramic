@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.17.5](https://github.com/ceramicnetwork/js-ceramic/compare/@dustil/cli@2.17.4...@dustil/cli@2.17.5) (2022-12-21)
+
+**Note:** Version bump only for package @dustil/cli
+
+
+
+
+
 ## [2.17.4](https://github.com/ceramicnetwork/js-ceramic/compare/@dustil/cli@2.17.3...@dustil/cli@2.17.4) (2022-12-21)
 
 **Note:** Version bump only for package @dustil/cli

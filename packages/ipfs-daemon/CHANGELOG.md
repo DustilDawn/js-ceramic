@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.8.5](https://github.com/ceramicnetwork/js-ceramic/compare/@dustil/ipfs-daemon@2.8.4...@dustil/ipfs-daemon@2.8.5) (2022-12-21)
+
+**Note:** Version bump only for package @dustil/ipfs-daemon
+
+
+
+
+
 ## [2.8.4](https://github.com/ceramicnetwork/js-ceramic/compare/@dustil/ipfs-daemon@2.8.3...@dustil/ipfs-daemon@2.8.4) (2022-12-21)
 
 **Note:** Version bump only for package @dustil/ipfs-daemon

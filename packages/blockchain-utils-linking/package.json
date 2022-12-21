@@ -1,6 +1,6 @@
 {
   "name": "@dustil/blockchain-utils-linking",
-  "version": "2.7.4",
+  "version": "2.7.5",
   "description": "Blockchain utils for linking blockchain accounts to DID",
   "keywords": [
     "ceramic",

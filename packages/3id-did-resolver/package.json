@@ -1,6 +1,6 @@
 {
   "name": "@dustil/3id-did-resolver",
-  "version": "2.8.4",
+  "version": "2.8.5",
   "description": "DID Resolver for the 3ID method",
   "keywords": [
     "Ceramic",
@@ -40,8 +40,8 @@
     "clean": "npx rimraf ./lib"
   },
   "dependencies": {
-    "@dustil/common": "^2.15.5",
-    "@dustil/stream-tile": "^2.11.4",
+    "@dustil/common": "^2.15.6",
+    "@dustil/stream-tile": "^2.11.5",
     "@dustil/streamid": "^2.8.0-rc.0",
     "cross-fetch": "^3.1.4",
     "lru_map": "^0.4.1",
@@ -49,7 +49,7 @@
     "uint8arrays": "^3.0.0"
   },
   "devDependencies": {
-    "@dustil/http-client": "^2.12.4",
+    "@dustil/http-client": "^2.12.5",
     "did-resolver": "^3.1.5"
   },
   "gitHead": "56e646e82ee6e9cdb0b762bbbf77b8432edce367"
