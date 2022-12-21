@@ -1,6 +1,6 @@
 {
   "name": "@dustil/stream-tile",
-  "version": "2.11.2",
+  "version": "2.11.3",
   "description": "Ceramic Tile Document stream type",
   "keywords": [
     "ceramic",
@@ -38,7 +38,7 @@
     "clean": "npx rimraf ./lib"
   },
   "dependencies": {
-    "@dustil/common": "^2.15.3",
+    "@dustil/common": "^2.15.4",
     "@dustil/streamid": "^2.8.0-rc.0",
     "@ipld/dag-cbor": "^7.0.0",
     "@stablelib/random": "^1.0.1",
